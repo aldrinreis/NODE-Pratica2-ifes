@@ -1,0 +1,73 @@
+[
+  {
+    "NomeCompleto": "Ana Silva",
+    "Endereco": "Rua das Flores, 123, Cidade Alegre",
+    "Nacionalidade": "Brasileira",
+    "Idade": 25,
+    "Sexo": "Feminino"
+  },
+
+  {
+    "NomeCompleto": "Carlos Oliveira",
+    "Endereco": "Avenida dos Girassóis, 456, Cidade Feliz",
+    "Nacionalidade": "Brasileira",
+    "Idade": 32,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Mariana Santos",
+    "Endereco": "Rua das Palmeiras, 789, Cidade Tranquila",
+    "Nacionalidade": "Brasileira",
+    "Idade": 28,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Rafael Souza",
+    "Endereco": "Avenida das Estrelas, 654, Cidade Serena",
+    "Nacionalidade": "Brasileira",
+    "Idade": 40,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Leticia Lima",
+    "Endereco": "Rua dos Lírios, 987, Cidade Pacífica",
+    "Nacionalidade": "Brasileira",
+    "Idade": 22,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Felipe Rocha",
+    "Endereco": "Avenida das Rosas, 321, Cidade Calma",
+    "Nacionalidade": "Brasileira",
+    "Idade": 35,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Isabela Pereira",
+    "Endereco": "Rua das Violetas, 555, Cidade Plácida",
+    "Nacionalidade": "Brasileira",
+    "Idade": 27,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Gabriel Costa",
+    "Endereco": "Avenida das Tulipas, 789, Cidade Sossegada",
+    "Nacionalidade": "Brasileira",
+    "Idade": 45,
+    "Sexo": "Masculino"
+  },
+  {
+    "NomeCompleto": "Juliana Martins",
+    "Endereco": "Rua das Margaridas, 234, Cidade Harmoniosa",
+    "Nacionalidade": "Brasileira",
+    "Idade": 29,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Vinicius Oliveira",
+    "Endereco": "Avenida dos Cravos, 876, Cidade Amena",
+    "Nacionalidade": "Brasileira",
+    "Idade": 33,
+    "Sexo": "Masculino"
+  }
+]
